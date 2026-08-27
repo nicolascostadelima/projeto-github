@@ -1,3 +1,3 @@
-export const App = () => {
-    return "Inicio do nosso da tela de aplicação";
+export const login = () => {
+    return "Tela de login";
 }
